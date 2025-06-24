@@ -50,10 +50,6 @@ const Footer = () => {
                   icon: "fab fa-github",
                   href: "https://github.com/Kubendiran2003",
                 },
-                {
-                  icon: "fab fa-instagram",
-                  href: "https://www.instagram.com/kubendiran_2303?igsh=NnphYTJ4MmYzN2Jx",
-                },
               ].map((social, index) => (
                 <a
                   key={index}
@@ -108,7 +104,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center justify-center md:justify-start space-x-3">
               <i className="fas fa-phone text-primary-400"></i>
-              <span className="text-gray-300">+91 6379412516</span>
+              <span className="text-gray-300">+91 63XXXXXX16</span>
             </div>
             <div className="flex items-center justify-center md:justify-start space-x-3">
               <i className="fas fa-map-marker-alt text-primary-400"></i>

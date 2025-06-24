@@ -58,10 +58,6 @@ const Hero = () => {
                   icon: "fab fa-github",
                   href: "https://github.com/Kubendiran2003",
                 },
-                {
-                  icon: "fab fa-instagram",
-                  href: "https://www.instagram.com/kubendiran_2303?igsh=NnphYTJ4MmYzN2Jx",
-                },
               ].map((social, index) => (
                 <a
                   key={index}

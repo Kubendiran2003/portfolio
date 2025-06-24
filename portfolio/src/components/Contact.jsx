@@ -15,7 +15,7 @@ const Contact = () => {
       icon: "fas fa-map-marker-alt",
       title: "Location",
       details: [
-        "314 Vadamathur",
+        "314, Vadamathur,",
         "Tiruvannamalai, Tamil Nadu",
         "606702, India",
       ],
@@ -28,7 +28,7 @@ const Contact = () => {
     {
       icon: "fas fa-phone",
       title: "Phone",
-      details: ["+91 6379412516", "Mon - Fri: 9AM - 10PM"],
+      details: ["+91 63XXXXXX16", "Mon - Fri: 9AM - 10PM"],
     },
     {
       icon: "fas fa-briefcase",
@@ -117,10 +117,6 @@ const Contact = () => {
                   {
                     icon: "fab fa-github",
                     href: "https://github.com/Kubendiran2003",
-                  },
-                  {
-                    icon: "fab fa-instagram",
-                    href: "https://www.instagram.com/kubendiran_2303?igsh=NnphYTJ4MmYzN2Jx",
                   },
                 ].map((social, i) => (
                   <a

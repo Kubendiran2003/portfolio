@@ -20,37 +20,46 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "Recipes App",
+      title: "Sky Tech Makers",
       description:
-        "A web app to browse, create, and save recipes with ingredients, steps, and categories. Users can manage personal recipe collections securely.",
+        "A MERN stack platform to publish blogs, solve interview questions, and use developer tools with secure login, Register and admin approval.",
       image:
-        "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
+        "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
       technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
-      liveUrl:
-        "https://68554b082182a35160735d37--incandescent-cobbler-dee2b2.netlify.app/",
-      githubUrl:
-        "https://github.com/Kubendiran2003/My-Work/tree/main/NodeJs-Task-1/recipes-app-backend",
+      liveUrl: "https://sky-tech-makers.netlify.app",
+      githubUrl: "https://github.com/Kubendiran2003/Sky-Tech-Makers",
       featured: true,
     },
     {
       id: 3,
-      title: "E-Commerce Clone",
+      title: "SaaS Management Application",
       description:
-        "Full-featured e-commerce platform with product catalog, shopping cart, and secure payment integration.",
+        "Streamlined platform to manage tenants, products, and subscriptions for SaaS businesses.",
       image:
-        "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
-      technologies: ["React", "Tailwind CSS", "API"],
-      liveUrl:
-        "https://67e29f58fcb5a708bf3e239a--verdant-puffpuff-fab2c9.netlify.app/",
-      githubUrl:
-        "https://github.com/Kubendiran2003/My-Work/tree/main/react_task-2",
-      featured: false,
+        "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
+      technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
+      liveUrl: "https://saas-frontend-project.netlify.app",
+      githubUrl: "https://github.com/Arunagiri19/saasmanagement",
+      featured: true,
     },
     {
       id: 4,
+      title: "Dice Game",
+      description:
+        "A fun dice game built with JavaScript where two players roll dice and compete to get the highest score.",
+      image:
+        "https://images.pexels.com/photos/279321/pexels-photo-279321.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
+      technologies: ["HTML", "Tailwind CSS", "JavaScript"],
+      liveUrl: "https://jocular-pothos-ebbb9e.netlify.app",
+      githubUrl:
+        "https://github.com/Kubendiran2003/My-Work/tree/main/Dice_Game",
+      featured: false,
+    },
+    {
+      id: 5,
       title: "Coffee Shop Website",
       description:
-        "Modern coffee shop website with online ordering system and customer management features.",
+        "Simple and elegant coffee shop site with a responsive layout, smooth user interaction, and animated transitions.",
       image:
         "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
       technologies: ["HTML", "CSS", "JavaScript"],
@@ -60,52 +69,55 @@ const Projects = () => {
       featured: false,
     },
     {
-      id: 5,
-      title: "Movie Search App",
-      description:
-        "React-based movie discovery app with advanced search, filtering, and detailed movie information.",
-      image:
-        "https://images.pexels.com/photos/265685/pexels-photo-265685.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
-      technologies: ["React", "Tailwind CSS", "API"],
-      liveUrl: "https://jolly-sundae-44c73d.netlify.app/",
-      githubUrl:
-        "https://github.com/Kubendiran2003/My-Work/tree/main/react_task-3",
-      featured: false,
-    },
-    {
       id: 6,
-      title: "Expense Tracker",
+      title: "Flipkart Clone",
       description:
-        "Personal finance management tool with expense tracking, budgeting, and financial analytics.",
+        "A static Flipkart homepage clone built with HTML, CSS, and JavaScript, showcasing responsive layout and product sections.",
       image:
-        "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
+        "https://images.pexels.com/photos/5632384/pexels-photo-5632384.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
       technologies: ["HTML", "CSS", "JavaScript"],
-      liveUrl: "https://classy-bombolone-7701f4.netlify.app/",
-      githubUrl: "https://github.com/Kubendiran2003/My-Work/tree/main/Task_3",
+      liveUrl: "https://extraordinary-frangipane-7c7327.netlify.app",
+      githubUrl:
+        "https://github.com/Kubendiran2003/My-Work/tree/main/flipkart-clone",
       featured: false,
     },
     {
       id: 7,
-      title: "Travel Agency Platform",
+      title: "Hangman Game",
+      description:
+        "A classic Hangman word guessing game built with React and Tailwind CSS featuring interactive UI and scoring logic.",
+      image:
+        "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
+      technologies: ["React", "Tailwind CSS"],
+      liveUrl: "https://dashing-medovik-c4ee99.netlify.app",
+      githubUrl:
+        "https://github.com/Kubendiran2003/My-Work/tree/main/hangman_game",
+      featured: false,
+    },
+    {
+      id: 8,
+      title: "Travel Booking",
       description:
         "A modern travel booking platform with interactive destination exploration and seamless trip planning features.",
       image:
         "https://images.pexels.com/photos/1008155/pexels-photo-1008155.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
       technologies: ["HTML", "CSS"],
-      liveUrl: "https://stellar-manatee-389a71.netlify.app/",
-      githubUrl: "https://github.com/Kubendiran2003/My-Work/tree/main/Task_1",
+      liveUrl: "https://theb4trip.netlify.app",
+      githubUrl:
+        "https://github.com/Kubendiran2003/My-Work/tree/main/TheB4Trip",
       featured: false,
     },
     {
-      id: 8,
-      title: "E-Learning Platform",
+      id: 9,
+      title: "Veterinary Clinic",
       description:
-        "Interactive online learning platform with course management, progress tracking, and student engagement features.",
+        "Responsive website for a veterinary clinic with appointment booking, services overview, and interactive FAQs.",
       image:
-        "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
-      technologies: ["HTML", "Tailwind CSS"],
-      liveUrl: "https://luminous-croquembouche-6ab25f.netlify.app/#",
-      githubUrl: "https://github.com/Kubendiran2003/My-Work/tree/main/Task_2",
+        "https://images.pexels.com/photos/6235244/pexels-photo-6235244.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=1",
+      technologies: ["HTML", "CSS", "JavaScript"],
+      liveUrl: "https://earnest-dodol-5ff618.netlify.app",
+      githubUrl:
+        "https://github.com/Kubendiran2003/My-Work/tree/main/Veterinary_Clinic",
       featured: false,
     },
   ];
@@ -129,7 +141,7 @@ const Projects = () => {
 
         {/* Featured Projects */}
         <div className="mb-20">
-          <div className="grid lg:grid-cols-2 gap-12">
+          <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
             {featuredProjects.map((project, index) => (
               <div
                 key={project.id}
