@@ -39,7 +39,7 @@ const Hero = () => {
                 <i className="fas fa-arrow-right"></i>
               </a>
               <a
-                href="https://drive.google.com/file/d/1kFxezVaMrbv54Zqs8Xctd2Goge_sFVD7/view?usp=sharing"
+                href="https://drive.google.com/file/d/1p7nFWygExve55Bb9dXuCI8cehiicuteJ/view?usp=sharing"
                 target="_blank"
                 className="px-8 py-4 btn-outline rounded-full font-semibold text-lg inline-flex items-center justify-center space-x-2"
               >

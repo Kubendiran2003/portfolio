@@ -1,9 +1,32 @@
 const Experience = () => {
   const experiences = [
     {
+      title: "Software Developer Intern",
+      company: "Infosys",
+      period: "Jul 2025 – Present",
+      description:
+        "Contributing to full-stack enterprise application development within Infosys’ agile teams. Working on real-world use cases involving React, Node.js, API integration, and more.",
+      technologies: [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Core Java",
+        "REST APIs",
+        "Git & GitHub",
+        "Agile Methodologies",
+        "Unit Testing",
+      ],
+      achievements: [
+        "Working on real-time enterprise applications for global clients",
+        "Participated in internal training and mentorship sessions",
+        "Contributed to backend APIs and frontend UI using MERN stack and Core Java",
+      ],
+    },
+    {
       title: "Full Stack Developer",
       company: "Freelance",
-      period: "2025 - Present",
+      period: "Jan 2025 - Present",
       description:
         "Developing custom web applications for clients using MERN stack. Built 15+ projects including e-commerce platforms, learning management systems, and business websites.",
       technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
