@@ -64,6 +64,27 @@ const Skills = () => {
         "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&dpr=1",
       link: "https://drive.google.com/file/d/1Z2POqBt2P9E4J-JLHQ3WXPm8vVx_BKUB/view?usp=sharing",
     },
+    {
+      title: "AR / VR",
+      issuer: "InGage via Naan Mudhalvan",
+      image:
+        "https://images.pexels.com/photos/7988089/pexels-photo-7988089.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&dpr=1",
+      link: "https://drive.google.com/file/d/1YCH7hBNr_Y-TCGtXwQTf2hC59F0OcxLr/view?usp=sharing",
+    },
+    {
+      title: "Artificial Intelligence and Applications",
+      issuer: "Infosys Springboard via Naan Mudhalvan",
+      image:
+        "https://images.pexels.com/photos/3861967/pexels-photo-3861967.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&dpr=1",
+      link: "https://drive.google.com/file/d/1xLajeYRezBJ1r1cDjXg5jj0JPs21lSuw/view?usp=sharing",
+    },
+    {
+      title: "Programming Using Java",
+      issuer: "Infosys via Infosys Lex",
+      image:
+        "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&dpr=1",
+      link: "https://drive.google.com/file/d/1wV1s3y78WlCS7w6Flrik-Z_InaMH74H8/view?usp=sharing",
+    },
   ];
 
   useEffect(() => {

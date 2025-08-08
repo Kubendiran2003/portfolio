@@ -66,16 +66,16 @@ const Experience = () => {
       year: "2018",
     },
     {
-      icon: "fas fa-certificate",
-      title: "AR/VR Certification",
-      description:
-        "Successfully completed AR/VR development course with Naan Mudhalvan",
-      year: "2023",
-    },
-    {
       icon: "fas fa-code",
       title: "Full Stack Certification",
       description: "MERN Stack development certification from GUVI platform",
+      year: "2025",
+    },
+    {
+      icon: "fas fa-certificate",
+      title: "Java Certification",
+      description:
+        "Successfully completed Programming Using Java course from Infosys Lex",
       year: "2025",
     },
   ];
