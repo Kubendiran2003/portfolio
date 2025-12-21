@@ -1,9 +1,31 @@
 const Experience = () => {
   const experiences = [
     {
+      title: "Intern Developer",
+      company: "Arbaan GT Private Limited",
+      period: "Dec 2025 – Present",
+      description:
+        "Working as an Intern Developer on enterprise-grade applications for Freshworks ecosystem. Involved in building, customizing, and integrating Freshworks apps using modern frontend technologies and REST APIs while collaborating with senior developers in an agile environment.",
+      technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Next.js",
+        "Freshworks (Freshdesk / Freshservice)",
+        "REST APIs",
+        "Git & GitHub",
+      ],
+      achievements: [
+        "Developing and customizing Freshworks apps for real-time client use cases",
+        "Built responsive UI components using React and modern JavaScript",
+        "Collaborating with backend and product teams to deliver enterprise solutions",
+      ],
+    },
+    {
       title: "Software Developer Intern",
       company: "Infosys",
-      period: "Jul 2025 – Present",
+      period: "Jul 2025 – Dec 2025",
       description:
         "Contributing to full-stack enterprise application development within Infosys’ agile teams. Working on real-world use cases involving React, Node.js, API integration, and more.",
       technologies: [
@@ -26,7 +48,7 @@ const Experience = () => {
     {
       title: "Full Stack Developer",
       company: "Freelance",
-      period: "Jan 2025 - Present",
+      period: "Jan 2025 - Jul 2025",
       description:
         "Developing custom web applications for clients using MERN stack. Built 15+ projects including e-commerce platforms, learning management systems, and business websites.",
       technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],

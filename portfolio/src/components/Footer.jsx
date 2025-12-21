@@ -13,9 +13,9 @@ const Footer = () => {
     "Full Stack Development",
     "Frontend Development",
     "Backend Development",
+    "Freshworks Development",
     "API Development",
     "Database Design",
-    "Web Consulting",
   ];
 
   return (
