@@ -1,7 +1,7 @@
 const Experience = () => {
   const experiences = [
     {
-      title: "Intern Developer",
+      title: "Junior Developer",
       company: "Arbaan GT Private Limited",
       period: "Dec 2025 – Present",
       description:
